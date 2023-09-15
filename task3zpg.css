@@ -1,0 +1,159 @@
+* {
+    background-color: black;
+    color: #ffff !important;
+}
+
+.tile {
+    padding-left: 15px;
+}
+
+.text {
+    width: 141px;
+    height: 40px;
+    margin-top: 8px;
+    padding: 5px;
+    background-color: #7574e8 !important;
+    border-style: none;
+}
+
+.luck {
+    margin-top: 8px;
+    font-size: 16px;
+    word-spacing: 30px !important;
+    padding-right: 45px !important;
+}
+.rest{
+    margin-left: 60px;
+}
+.log {
+    color: #7574e8 !important;
+}
+.break{
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.remot{
+    justify-content: end !important;
+}
+.broad {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.princy {
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 1.5;
+    width: 900px;
+    height: 96px;
+}
+
+.june {
+    font-size: 16px;
+}
+
+.july {
+    font-size: 16px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin-top: 10px;
+}
+
+.para {
+    font-size: 16px;
+    width: 900px;
+    height: 264px;
+    margin-top: 35px;
+    word-spacing: 5px;
+    margin-bottom: 10px;
+}
+
+.head {
+    font-size: 20px;
+    width: 900px;
+    height: 264px;
+    margin-top: 35px;
+    word-spacing: 5px;
+    margin-bottom: 10px;
+}
+
+.tail {
+    font-size: 16px;
+    width: 900px;
+    height: 128px;
+    margin-top: 20px;
+    word-spacing: 5px;
+
+}
+
+.mob {
+    font-size: 20px;
+    font-style: italic;
+    width: 900px;
+    height: 264px;
+    word-spacing: 5px;
+    margin-bottom: 50px;
+}
+
+.sub {
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+
+.news {
+    background: linear-gradient(to right, #ff4d81 , #7175eb );
+    font-size: 48px;
+    font-weight: 800;
+    width: 473px;
+}
+.mail{
+    width: 473px;
+    height: 56px;
+    border: solid 1px #222;
+    background-color: #0d0d0d;
+    text-align: left;
+    margin-top: 35px;
+}
+.scribe{
+    width: 141px;
+    height: 40px;
+    margin-top: 35px;
+    padding: 5px;
+    background-color: #7574e8 !important;
+    border-style: none;
+}
+.horizontal-line {
+    width: 1240px;
+    height: 1px;
+    margin: 5px;
+    background-color: #333;
+}
+.vertical-line{   
+    width: 1px;
+    height: 70px;
+    margin: 0px 11px 16px 12px;
+    background-color: #333;
+}
+.crow{
+    margin-left: 25px;
+}
+.in{
+    margin-left: 20px;
+}
+.hr{
+    width: 1440px;
+    height: 1px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    background-color: #333;
+}
+.wow{
+    margin-bottom: 25px;
+}
